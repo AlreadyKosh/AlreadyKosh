@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/AlreadyKosh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlreadyKosh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlreadyKosh&layout=compact&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlreadyKosh&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlreadyKosh&layout=compact&theme=midnight-purple"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
