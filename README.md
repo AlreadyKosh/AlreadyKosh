@@ -1,7 +1,7 @@
 ## Oiee eu me chamo Douglas
 
 <div align="center">
-  <a href="https://github.com/pedrinhsl">
+  <a href="https://github.com/AlreadyKosh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlreadyKosh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlreadyKosh&layout=compact&theme=github_dark"/>
 <div style="display: inline_block"><br>
