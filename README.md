@@ -1,4 +1,4 @@
-## Oiee eu me chamo Douglas
+## Oi, eu me chamo Douglas e Seja Bem-Vindo ao meu perfil, 
 
 <div align="center">
   <a href="https://github.com/AlreadyKosh">
