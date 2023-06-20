@@ -1,4 +1,6 @@
-## Oi, eu me chamo Douglas e Seja Bem-Vindo ao meu perfil, 
+## Welcome to my profile, my name is Douglas Carreira, I'm 23 years old and I'm a junior full stack programmer.
+
+I'm currently working on the Praia Limpa project, which is a mobile project with react native and js.
 
 <div align="center">
   <a href="https://github.com/AlreadyKosh">
