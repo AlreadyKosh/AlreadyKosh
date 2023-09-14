@@ -1,8 +1,9 @@
-## Douglas Carreira
+<h1> Douglas Carreira </h1>
+<p align="justify">Welcome to my profile, I'm 23 years old and I'm a junior full stack programmer. I am a computer engineering graduate and also have technical training in digital game programming. Currently, I am working on a freelance project as a frontend developer in collaboration with the Department of Environmental Affairs of the city of Santos, called "Praia Limpa" (Clean Beach). In my free time, I often play many games, especially LoL, and recently, I have been venturing into the field of gastronomy with my girlfriend, specifically in the area of confectionery, and I'm really enjoying it.</p>
 
-Welcome to my profile, I'm 23 years old and I'm a junior full stack programmer. I am a computer engineering graduate and also have technical training in digital game programming. Currently, I am working on a freelance project as a frontend developer in collaboration with the Department of Environmental Affairs of the city of Santos, called "Praia Limpa" (Clean Beach). In my free time, I often play many games, especially LoL, and recently, I have been venturing into the field of gastronomy with my girlfriend, specifically in the area of confectionery, and I'm really enjoying it.
 
-### Connect with me
+<h3 align="left">Connect with me</h3>
+
 <div> 
   <a href = "mailto:doug.carreira1409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/eusoucarreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -11,6 +12,7 @@ Welcome to my profile, I'm 23 years old and I'm a junior full stack programmer. 
 </div>
 
 <br>
+
 <div align="center">
   <a href="https://github.com/AlreadyKosh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlreadyKosh&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
